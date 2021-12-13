@@ -31,7 +31,6 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-Soon...
 <!-- BLOG-POST-LIST:END -->
 
 <br />
