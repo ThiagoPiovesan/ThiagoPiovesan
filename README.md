@@ -28,10 +28,6 @@
 
 <br />
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-Soon...
-<!-- BLOG-POST-LIST:END -->
 
 ---
 [![Thiago Piovesan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoPiovesan&show_icons=true)](https://github.com/ThiagoPiovesan/github-readme-stats)
