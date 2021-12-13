@@ -27,7 +27,14 @@
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/MicroPython.svg" />]
 
 <br />
+---
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+Soon...
+<!-- BLOG-POST-LIST:END -->
+
+<br />
 ---
 
 <details>
