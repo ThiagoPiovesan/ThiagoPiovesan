@@ -30,7 +30,10 @@
 
 
 ---
-[![Thiago Piovesan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoPiovesan&show_icons=true)](https://github.com/ThiagoPiovesan/github-readme-stats)
+[![Thiago Piovesan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoPiovesan&show_icons=true&theme=radical)](https://github.com/ThiagoPiovesan/github-readme-stats)
+
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoPiovesan)](https://github.com/ThiagoPiovesan/github-readme-stats)
 
 
 <br />
@@ -47,20 +50,6 @@
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="ThiagoPiovesan's GitHub Stats" src="https://github-readme-stats.ThiagoPiovesan.vercel.app/api?username=ThiagoPiovesan&show_icons=true&theme=radical" />
-
-</details>
-
-<details>
-  <summary>:zap: Top Languages</summary>
-
-  <img align="left" alt="ThiagoPiovesan's GitHub Stats" src="https://github-readme-stats.ThiagoPiovesan.vercel.app/api/top-langs/?username=ThiagoPiovesan" />
-
-
-</details>
 
 [instagram]: https://www.instagram.com/thiago_ppiovesan/
 [linkedin]: https://www.linkedin.com/in/thiago-piovesan/
