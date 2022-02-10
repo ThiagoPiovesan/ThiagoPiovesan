@@ -1,6 +1,6 @@
 ### Hi there, I'm Thiago 👋 
 
-## I'm an Eletrical Engineer student, estagiary and everything learner!!
+## I'm an Eletrical Engineer student, intern and everything learner!!
 
 - 🔭 I’m almost finishing my graduation !!
 - 🌱 I’m currently learning most about Artificial Intelligence and Internet of Things
