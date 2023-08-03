@@ -1,11 +1,11 @@
 ### Hi there, I'm Thiago 👋 
 
-## I'm an Eletrical Engineer student, intern and everything learner!!
+## I'm an Eletrical Engineer, Developer and everything learner!!
 
-- 🔭 I’m almost finishing my graduation !!
+- 🔭 I have finished my graduation !!
 - 🌱 I’m currently learning most about Artificial Intelligence and Internet of Things
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Impact people's live with AIoT
+- 🥅 2023 Goals: Impact people's live with AIoT
 - ⚡ Fun fact: I love to write poems, play guitar and learn about mind and emotional intelligence.
 
 ### Connect with me:
