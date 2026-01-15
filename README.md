@@ -19,7 +19,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img height="32" width="32" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 <br />
 
@@ -33,7 +33,6 @@
 4. 🎥 Real Time Video Agent [ThiagoPiovesan/Real_Time_Video_Agent_Analyser](https://github.com/ThiagoPiovesan/Project2_RealTimeVideoAgent)
 5. 🔭 People Counter Module [ThiagoPiovesan/PeopleCounter_module](https://github.com/ThiagoPiovesan/PeopleCounter_module)
 6. 👯 Person Detector using MAixPy [ThiagoPiovesan/PersonDetector-MaixPy](https://github.com/ThiagoPiovesan/PersonDetector-MaixPy)
-
 <!--END_SECTION:activity-->
 
 </details>
